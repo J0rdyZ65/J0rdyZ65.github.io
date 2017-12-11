@@ -1,3 +1,3 @@
 # J0rdyZ65.github.io
 
-[Releases](addons/index.html)
+[Addons](addons/index.html)
